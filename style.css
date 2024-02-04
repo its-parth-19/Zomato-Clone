@@ -15,6 +15,16 @@ header{
      background-repeat: no-repeat;
      background-size: cover;
 }
+.mainheading p{
+    font-size: 39px;
+}
+.mainheading input[type="search"]
+{
+    height: 65px;
+    width: 543px;
+    padding-left: 205px;
+}
+
 .leftnav{
     /* border: 2px solid blue; */
     width: 500px;
@@ -60,10 +70,10 @@ header{
     padding: 25px;
 }
 .mainheading{
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     position: absolute;
     top: 32%;
-    width: 600px;
+    width: 656px;
     text-align: center;
     
     
