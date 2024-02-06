@@ -118,7 +118,7 @@ header {
     width: 400px;
 }
 
-/* .order-menu {
+.order-menu {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -567,4 +567,4 @@ header {
     padding-left: 170px;
     font-size: 26px;
     font-style: italic;
-} */
+}
