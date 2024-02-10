@@ -220,4 +220,11 @@ header {
 #collection2 .collectioninfo {
     margin-top: 79%;
 }
-
+.popularlocalities {
+    /* border: 2px solid green; */
+    font-size: 31px;
+    width: 600px;
+    margin: auto;
+    margin-top: 32px;
+    text-align: center;
+}
