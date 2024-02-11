@@ -245,3 +245,17 @@ header {
     margin-top: 43px;
 
 }
+.local2 {
+    border: 2px solid red;
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+    font-size: 23px;
+    color: blue;
+    padding-top: 6px;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-left: 25%;
+    /* margin-top: 43px; */
+}
