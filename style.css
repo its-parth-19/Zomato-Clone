@@ -358,3 +358,16 @@ header {
     /* margin-right: 5px; */
     margin-left: 21%;
 }
+.zomato-app {
+    /* border: 2px solid green; */
+    margin-top: 16px;
+
+    background-color: #FFFBF7;
+    margin: 100px auto;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
