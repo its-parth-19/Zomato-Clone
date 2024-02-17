@@ -370,4 +370,14 @@ header {
     justify-content: center;
 
 }
+.zomato-app img {
+
+    height: 450px;
+
+}
+
+.zomato-app .zom-app-right {
+    margin-left: 50px;
+    width: 450px;
+}
 
