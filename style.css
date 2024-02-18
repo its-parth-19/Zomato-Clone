@@ -380,4 +380,13 @@ header {
     margin-left: 50px;
     width: 450px;
 }
+.zomato-app .zom-app-right h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.zomato-app .zom-app-right p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
 
