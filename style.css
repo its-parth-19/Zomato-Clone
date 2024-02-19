@@ -389,4 +389,17 @@ header {
     font-size: 16px;
     margin-bottom: 20px;
 }
+.zom-app-right .radio-btn {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 50%;
+    padding-right: 50px;
+    margin-bottom: 20px;
+}
+
+.zom-app-right .radio-btn input[type="radio"] {
+    transform: scale(1.5);
+    margin-right: 10px;
+}
 
