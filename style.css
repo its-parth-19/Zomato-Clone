@@ -425,3 +425,13 @@ header {
 .zom-app-right a.btn-share:hover {
     background-color: #ec4654;
 }
+.zom-app-right .app-store {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.zom-app-right p.small-text {
+    color: #9c9c9c;
+    margin-top: 20px;
+}
