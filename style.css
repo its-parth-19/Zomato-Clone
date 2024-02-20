@@ -414,3 +414,14 @@ header {
     border: 1px solid #cfcfcf;
     margin-right: 10px;
 }
+.zom-app-right a.btn-share {
+    color: #fff;
+    background-color: #ed5a6b;
+    border-radius: 8px;
+    padding: 13px 12px;
+    text-decoration: none;
+}
+
+.zom-app-right a.btn-share:hover {
+    background-color: #ec4654;
+}
