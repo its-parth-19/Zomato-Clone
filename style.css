@@ -402,4 +402,15 @@ header {
     transform: scale(1.5);
     margin-right: 10px;
 }
+.zom-app-right .email-phone {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
 
+.zom-app-right input[type="text"] {
+    padding: 13px 12px;
+    border-radius: 8px;
+    border: 1px solid #cfcfcf;
+    margin-right: 10px;
+}
