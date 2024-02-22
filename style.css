@@ -462,3 +462,12 @@ header {
     border-radius: 9px;
 
 }
+.Exploreoptions p {
+    display: inline-block;
+}
+
+.Exploreoptions .downarrow {
+    position: absolute;
+    right: 35%;
+    /* top: 521%; */
+}
