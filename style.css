@@ -443,3 +443,22 @@ header {
     width: 137px;
     height: 40px;
 }
+.exploreoptions {
+    /* border: 2px solid blue; */
+    width: 600px;
+    font-size: 26px;
+    text-align: center;
+    margin-top: -65px;
+    margin-left: 140px
+}
+
+.Exploreoptions {
+    border: 2px solid grey;
+    font-size: 20px;
+    padding: 18px;
+    margin-top: 10px;
+    width: 700px;
+    margin-left: 279px;
+    border-radius: 9px;
+
+}
