@@ -435,3 +435,11 @@ header {
     color: #9c9c9c;
     margin-top: 20px;
 }
+.zom-app-right .app-store .app-image {
+    margin-right: 20px;
+}
+
+.zom-app-right .app-store img {
+    width: 137px;
+    height: 40px;
+}
