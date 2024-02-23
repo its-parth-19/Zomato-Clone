@@ -471,3 +471,10 @@ header {
     right: 35%;
     /* top: 521%; */
 }
+.footercontent ul li h4{
+    margin-left: 111px;
+}
+.footercontent ul li a{
+    margin-left: 131px;
+    text-decoration: none;
+}
