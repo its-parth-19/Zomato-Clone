@@ -493,3 +493,11 @@ header {
     bottom: 101px;
     
 }
+.footercontent  img
+{
+    margin-left: 67px;
+}
+.footercontent .copyright{
+    /* border: 2px solid blue; */
+    text-align: center;
+}
