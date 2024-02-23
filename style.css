@@ -478,3 +478,18 @@ header {
     margin-left: 131px;
     text-decoration: none;
 }
+.footercontent{
+    /* border: 2px solid blue; */
+    background-color: beige;
+    
+}
+
+.footercontent .imagesicons{
+    /* border: 2px solid red; */
+    width: 500px;
+    margin-left: 807px;
+    
+    position: relative;
+    bottom: 101px;
+    
+}
