@@ -513,3 +513,16 @@ header {
     display: inline-block;
     display: inline-block;
 }
+.ul2{
+    /* border: 2px solid green; */
+    width: 300px;
+    text-align: center;
+    margin-left: 7px;
+    margin-top: 10px;
+    position: relative;
+    left: 306px;
+    bottom: 118px;
+}
+.ul2 li{
+    list-style: none;
+}
