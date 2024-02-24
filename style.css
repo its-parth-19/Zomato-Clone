@@ -501,3 +501,15 @@ header {
     /* border: 2px solid blue; */
     text-align: center;
 }
+.footercontent ul li h4{
+    display: inline-block;
+}
+.ul1{
+    /* border: 2px solid green; */
+    width: 300px;
+    text-align: center;
+    margin-left: 7px;
+    margin-top: 10px;
+    display: inline-block;
+    display: inline-block;
+}
