@@ -544,3 +544,10 @@ header {
     margin-top: 14px;
     
 }
+.footerbar{
+    /* border: 2px solid red; */
+    margin-top: 6px;
+    padding-left: 170px;
+    font-size: 26px;
+    font-style: italic;
+}
