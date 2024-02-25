@@ -537,3 +537,6 @@ header {
      bottom: 188px;
  
  }
+ .ul3 li{
+    list-style: none;
+}
