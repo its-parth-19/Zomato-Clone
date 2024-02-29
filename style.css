@@ -113,9 +113,10 @@ header {
 }
 
 .orderitems {
-    /* border: 2px solid blue; */
+    border: 3px solid blue;
     height: 360px;
     width: 400px;
+    border-radius: 15px;
 }
 
 .order-menu {
